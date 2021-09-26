@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrutik Patel</h1>
+<br>
 <h3 align="left">I'm a pre-final year Computer Science💻 student at Indus University🎓. I'm a passionate learner who's always willing to learn📖 and work across technologies and domains💡. I love❤️ to explore new technologies and leverage them to solve real-life problems✔️. Apart from coding I always enjoy meeting new people👬 and hearing about their perspectives about how different things work. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products😊.</h3>
+<br>
 
 - 🔭 I’m currently building stunning and responsive websites using **JavaScript**
 
