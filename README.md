@@ -3,9 +3,13 @@
 <h3 align="left">I'm a pre-final year Computer Science💻 student at Indus University🎓. I'm a passionate learner who's always willing to learn📖 and work across technologies and domains💡. I love❤️ to explore new technologies and leverage them to solve real-life problems✔️. Apart from coding I always enjoy meeting new people👬 and hearing about their perspectives about how different things work. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products😊.</h3>
 <br>
 
+
+
 - 🔭 I’m currently building stunning and responsive websites using **JavaScript**
 
 - 🌱 I’m currently learning **React JS, mongo DB and Express JS**
+
+<img align="right" alt="IMG" width="400" height="300" src="https://cdn.dribbble.com/users/9285312/screenshots/16528849/media/adc74d49db663261b8fca79e2a45d17e.png">
 
 - 💬 Ask me about **Frontend Technologies, I would love to share my thoughts.**
 
@@ -14,8 +18,6 @@
 - ⚡ Fun fact **I think, I'm good at Googling.**
 
 <h3 align="left">Connect with me:</h3>
-
-<!--<img align="right" alt="IMG" width="100" height="100" src=""-->
 
 <p align="left">
 <a href="https://linkedin.com/in/dhrutik-patel-694777217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrutik-patel-694777217" height="30" width="40" /></a>
