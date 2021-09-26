@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="IMG" width="100" height="100" src="https://cdn.dribbble.com/users/9285312/screenshots/16528342/media/b5b2d842863d7bad42cebe8ec61987f4.png">
+<!--<img align="right" alt="IMG" width="100" height="100" src=""-->
 
 <p align="left">
 <a href="https://linkedin.com/in/dhrutik-patel-694777217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrutik-patel-694777217" height="30" width="40" /></a>
