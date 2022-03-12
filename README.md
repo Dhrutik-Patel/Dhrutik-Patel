@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dhrutik Patel</h1>
-<br>
-<h3 align="left">I'm a pre-final year Computer Science💻 student at Indus University🎓. I'm a passionate learner who's always willing to learn📖 and work across technologies and domains💡. I love❤️ to explore new technologies and leverage them to solve real-life problems✔️. Apart from coding I always enjoy meeting new people👬 and hearing about their perspectives about how different things work. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products😊.</h3>
-<br>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+## 🚀 About Me
+
+🎓 I am Dhrutik Patel, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering 💻** and will graduate in mid-2023.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Playing outdoor games**, **Travelling ✈️**.
+
+📚 I also love reading books on **Personal Development** & **Financial Literacy**.
 
 
+- 🔭 I’m currently building stunning and responsive websites using **JavaScript** and **React JS.**
 
-- 🔭 I’m currently building stunning and responsive websites using **JavaScript**
-
-- 🌱 I’m currently learning **React JS, mongo DB and Express JS**
+- 🌱 I’m currently learning **Node JS, Mongo DB, Express JS and Next JS**
 
 - 💬 Ask me about **Frontend Technologies, I would love to share my thoughts.**
 
