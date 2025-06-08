@@ -1,27 +1,71 @@
 <h1 align="center">Hi 👋, I'm Dhrutik Patel</h1>
 
-## 🚀 About Me
+<p align="center">
+  Software Developer @ Odoo | Frontend & Full Stack Engineer | React & JavaScript Ecosystem Specialist
+</p>
 
-🎓 I am Dhrutik Patel, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering 💻** and will graduate in mid-2023.
+---
 
-🏆 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Playing outdoor games**, **Travelling ✈️**.
+## 👨‍💻 About Me
 
-📚 I also love reading books on **Personal Development** & **Financial Literacy**.
+I'm a software engineer currently working at **Odoo** as part of the **R&D Spreadsheet team**, where I contribute to building complex, high-performance frontend systems at scale. I specialize in **React-based architectures**, modern JavaScript tooling, and full stack development using **Node.js**, **Express**, and **Next.js**.
 
-<hr/>
+I'm passionate about building intuitive user interfaces, writing maintainable code, and solving real-world product problems through thoughtful engineering.  
+I also actively participate in **technical mentorship**, **hackathon leadership**, and **interview design** for full stack developer roles.
 
-- 🌱 I’m currently learning **Node JS, Mongo DB, Express JS and Next JS**
+---
 
-- 💬 Ask me about **Frontend Technologies, I would love to share my thoughts.**
+## 🔭 Current Interests
 
-- 📫 How to reach me **dhrutikpatel2017@gmail.com**
+- Designing scalable frontend architecture using modern frameworks like React and Next.js
+- Building full stack applications with real-time capabilities (e.g., WebSockets, live data APIs)
+- Mentoring and evaluating candidates in real-world coding environments
+- Staying up to date with emerging frontend trends and best practices
 
-- ⚡ Fun fact **I think, I'm good at Googling.**
+---
 
-<hr/>
+## 🧰 Tech Stack
 
-## 💻 Skills
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>  <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>  <img src='https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react&logoColor=white'/>  <img src='https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=react&logoColor=white'/>  <img src='https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>  <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'/>  <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>  <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>  <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>  <img src='https://img.shields.io/badge/Supabase-6534FF?style=for-the-badge&logo=supabase&logoColor=white'/>  <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'/>  <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<hr/>
+### Tools & Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🧠 Side Involvements
+
+- Led and mentored multiple teams during **Odoo Hackathons** across India
+- Designed and evaluated **technical interviews** and **hands-on coding challenges**
+- Collaborated on open-ended product features in agile, high-ownership environments
+
+---
+
+## 📫 Contact
+
+📧 **Email:** dhrutikpatel2017@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/dhrutik-patel](https://linkedin.com/in/dhrutik-patel)
+
+---
+
+## ⚡ Fun Fact
+
+I'm not just good at Googling — I know how to ask the right questions, evaluate solutions critically, and move fast without breaking things.
+
+---
