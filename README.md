@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhrutik Patel</h1>
 
 <p align="center">
-  Software Developer @ Odoo | Frontend & Full Stack Engineer | React & JavaScript Ecosystem Specialist
+  Software Developer @ Odoo | Frontend & Full Stack Engineer | React, JavaScript & TypeScript Specialist
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software engineer currently working at **Odoo** as part of the **R&D Spreadsheet team**, where I contribute to building complex, high-performance frontend systems at scale. I specialize in **React-based architectures**, modern JavaScript tooling, and full stack development using **Node.js**, **Express**, and **Next.js**.
+I'm a software engineer currently working at **Odoo** as part of the **R&D Spreadsheet team**, where I contribute to building complex, high-performance frontend systems at scale. I specialize in **React-based architectures**, **TypeScript/JavaScript tooling**, and full stack development using **Node.js**, **Express**, and **Next.js**.
 
 I'm passionate about building intuitive user interfaces, writing maintainable code, and solving real-world product problems through thoughtful engineering.  
 I also actively participate in **technical mentorship**, **hackathon leadership**, and **interview design** for full stack developer roles.
@@ -17,21 +17,22 @@ I also actively participate in **technical mentorship**, **hackathon leadership*
 
 ## 🔭 Current Interests
 
-- Designing scalable frontend architecture using modern frameworks like React and Next.js
-- Building full stack applications with real-time capabilities (e.g., WebSockets, live data APIs)
-- Mentoring and evaluating candidates in real-world coding environments
-- Staying up to date with emerging frontend trends and best practices
+- Designing scalable frontend architecture using modern frameworks like React and Next.js  
+- Building full stack applications with real-time capabilities (e.g., WebSockets, live data APIs)  
+- Mentoring and evaluating candidates in real-world coding environments  
+- Staying up to date with emerging frontend trends and best practices  
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### Backend
@@ -51,9 +52,9 @@ I also actively participate in **technical mentorship**, **hackathon leadership*
 
 ## 🧠 Side Involvements
 
-- Led and mentored multiple teams during **Odoo Hackathons** across India
-- Designed and evaluated **technical interviews** and **hands-on coding challenges**
-- Collaborated on open-ended product features in agile, high-ownership environments
+- Mentored and reviewed multiple teams during **Odoo Hackathons** across India  
+- Designed and evaluated **technical interviews** and **hands-on coding challenges**  
+- Collaborated in agile, high-ownership environments focused on developer experience and product quality  
 
 ---
 
